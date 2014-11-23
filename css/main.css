@@ -1,0 +1,76 @@
+body {
+	color: #666666;
+	background-color: #94fffe;
+	font-size: 16px;
+	line-height: 150%;
+	text-align: center;
+
+}
+h1	{
+	color: #fc6125;
+	font-family: 'Rock Salt', cursive;
+}
+h2 {
+	text-align: center;
+	font-family: 'Merriweather Sans', sans-serif;
+	color: #333333;
+}
+h3 {
+	text-align: center;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-weight: 300;
+	padding-bottom: 20px;
+}
+div {
+	border-style: solid;
+	border-width: 0px;
+	border-color: red;
+}
+img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#wrapper {
+	background-color: #FFFFFF;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+}
+#logo {
+	padding-left: 40px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: left;
+}
+#name {
+	padding-top: 15px;
+	padding-right: 40px;
+}
+
+#footer {
+	color: #999999;
+}
+
+
+#modalbody {
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+#modaltitle {
+	text-align: left;
+}
+
+#modalp {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#modalimage {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
